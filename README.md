@@ -1,2 +1,2 @@
 # project31
-dönem projesi
+- nothing
